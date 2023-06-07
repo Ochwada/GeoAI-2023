@@ -28,7 +28,9 @@ Radar data has a broad range of applications, including surveillance, navigation
 
 This is an advanced radar remote sensing approaches for crop development monitoring, including polarimetry and a canopy structure dynamic model. It addresses how to use machine learning approaches to classify crop type using Sentinel-1 and Sentinel-2 imaging time series. The Sentinel Application Platform (SNAP) and Python code written in Python Jupyter Notebooks, a web-based interactive development environment for scientific computing and machine learning, will be used in this series' practical exercises.
 
-For more information --> <http://appliedsciences.nasa.gov/join-mission/training/english/arset-crop-mapping-using-synthetic-aperture-radar-sar-and-optical-0>
+For more information -->  NASA Applied Remote Sensing Training (ARSET) program.  <http://appliedsciences.nasa.gov/join-mission/training/english/arset-crop-mapping-using-synthetic-aperture-radar-sar-and-optical-0>
+
+
 
 ### OBJECTIVES
 
